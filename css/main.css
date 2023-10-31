@@ -1,4 +1,7 @@
 body {
-    color: aquamarine;
     background: #000;
+}
+.text {
+font-size: 19px;
+color: blueviolet;
 }
